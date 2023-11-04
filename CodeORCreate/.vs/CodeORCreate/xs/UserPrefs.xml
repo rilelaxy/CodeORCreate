@@ -1,0 +1,29 @@
+﻿<Properties DisableMonoRequiredInfoBar="True" StartupConfiguration="{30F6003F-C3B7-FE12-C5C3-058112C1E8BA}|">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ac590a54-06bc-4e3b-a017-80bc7c928488" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PCN.cs">
+    <Files>
+      <File FileName="Assets/CharacterCustomization.cs" />
+      <File FileName="Assets/CharacterController2.cs" />
+      <File FileName="Assets/CharacterCreator.unity" />
+      <File FileName="Assets/PCM.cs" Line="3" Column="1" />
+      <File FileName="Assets/PCN.cs" Line="15" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CodeORCreate" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="TextMesh Pro" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
